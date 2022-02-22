@@ -1,0 +1,5 @@
+base45==0.4.3
+cbor2==5.4.2.post1
+colorama==0.4.4
+Pillow==9.0.1
+qrcode==7.3.1
